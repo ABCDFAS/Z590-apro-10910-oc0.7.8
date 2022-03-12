@@ -67,20 +67,4 @@ USB在win下定制成功
 
 具体看图
 
-![截屏2022-03-12 下午7.02.23](/Users/gaotiancheng/Documents/GitHub/Z590-apro-10910-oc0.7.8/截屏2022-03-12 下午7.02.23.png)
 
-![截屏2022-03-12 下午7.03.53](/Users/gaotiancheng/Documents/GitHub/Z590-apro-10910-oc0.7.8/截屏2022-03-12 下午7.03.53.png)
-
-![截屏2022-03-12 上午1.37.37](/Users/gaotiancheng/Documents/GitHub/Z590-apro-10910-oc0.7.8/截屏2022-03-12 上午1.37.37.png)
-
-![截屏2022-03-12 上午1.38.53](/Users/gaotiancheng/Documents/GitHub/Z590-apro-10910-oc0.7.8/截屏2022-03-12 上午1.38.53.png)
-
-![截屏2022-03-12 上午1.41.52](/Users/gaotiancheng/Documents/GitHub/Z590-apro-10910-oc0.7.8/截屏2022-03-12 上午1.41.52.png)
-
-![截屏2022-03-12 上午1.39.30](/Users/gaotiancheng/Documents/GitHub/Z590-apro-10910-oc0.7.8/截屏2022-03-12 上午1.39.30.png)
-
-![截屏2022-03-12 上午1.39.08](/Users/gaotiancheng/Documents/GitHub/Z590-apro-10910-oc0.7.8/截屏2022-03-12 上午1.39.08.png)
-
-![截屏2022-03-12 上午1.44.21](/Users/gaotiancheng/Documents/GitHub/Z590-apro-10910-oc0.7.8/截屏2022-03-12 上午1.44.21.png)
-
-![截屏2022-03-12 上午2.45.22](/Users/gaotiancheng/Documents/GitHub/Z590-apro-10910-oc0.7.8/截屏2022-03-12 上午2.45.22.png)

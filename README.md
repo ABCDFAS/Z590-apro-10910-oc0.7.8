@@ -77,7 +77,7 @@ USB在win下定制成功
 
 ![005](https://raw.githubusercontent.com/ABCDFAS/Z590-apro-10910-oc0.7.8/main/截屏2022-03-12%20上午1.39.08.png)
 
-![006](https://raw.githubusercontent.com/ABCDFAS/Z590-apro-10910-oc0.7.8/main/截屏2022-03-12%20上午1.39.30.png)
+![006](https://raw.githubusercontent.com/ABCDFAS/Z590-apro-10910-oc0.7.8/main/截屏2022-03-12%20下午7.21.37.png)
 
 ![007](https://raw.githubusercontent.com/ABCDFAS/Z590-apro-10910-oc0.7.8/main/截屏2022-03-12%20上午1.41.52.png)
 

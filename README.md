@@ -67,4 +67,22 @@ USB在win下定制成功
 
 具体看图
 
+![001](https://raw.githubusercontent.com/ABCDFAS/Z590-apro-10910-oc0.7.8/main/截屏2022-03-12%20下午7.02.23.png)
+
+![002](https://raw.githubusercontent.com/ABCDFAS/Z590-apro-10910-oc0.7.8/main/截屏2022-03-12%20下午7.03.53.png)
+
+![003](https://raw.githubusercontent.com/ABCDFAS/Z590-apro-10910-oc0.7.8/main/截屏2022-03-12%20上午1.37.37.png)
+
+![004](https://raw.githubusercontent.com/ABCDFAS/Z590-apro-10910-oc0.7.8/main/截屏2022-03-12%20上午1.38.53.png)
+
+![005](https://raw.githubusercontent.com/ABCDFAS/Z590-apro-10910-oc0.7.8/main/截屏2022-03-12%20上午1.39.08.png)
+
+![006](https://raw.githubusercontent.com/ABCDFAS/Z590-apro-10910-oc0.7.8/main/截屏2022-03-12%20上午1.39.30.png)
+
+![007](https://raw.githubusercontent.com/ABCDFAS/Z590-apro-10910-oc0.7.8/main/截屏2022-03-12%20上午1.41.52.png)
+
+![008](https://raw.githubusercontent.com/ABCDFAS/Z590-apro-10910-oc0.7.8/main/截屏2022-03-12%20上午1.44.21.png)
+
+![009](https://raw.githubusercontent.com/ABCDFAS/Z590-apro-10910-oc0.7.8/main/截屏2022-03-12%20上午2.45.22.png)
+
 
